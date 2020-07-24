@@ -1,3 +1,6 @@
+App is deployed using Firebase. 
+https://todo-app-c08d6.firebaseapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
